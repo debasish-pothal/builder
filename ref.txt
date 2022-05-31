@@ -3,3 +3,5 @@ https://medium.com/@bo.vandersteene/mock-your-ngrx-store-on-the-easy-way-68c66d4
 https://v8.ngrx.io/guide/store/testing
 
 https://itnext.io/ngrx-store-testing-cheat-sheet-59e069eb47c
+
+https://stackblitz.com/github/duncanhunter/angular-and-ngrx-demo-app/tree/21-test-effect?file=src%2Fapp%2Fevent%2Fservices%2Fevent.service.spec.ts
