@@ -5,3 +5,5 @@ https://v8.ngrx.io/guide/store/testing
 https://itnext.io/ngrx-store-testing-cheat-sheet-59e069eb47c
 
 https://stackblitz.com/github/duncanhunter/angular-and-ngrx-demo-app/tree/21-test-effect?file=src%2Fapp%2Fevent%2Fservices%2Fevent.service.spec.ts
+
+https://duncanhunter.gitbook.io/angular-and-ngrx/12.-test-eventservice
