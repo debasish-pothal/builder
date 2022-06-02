@@ -1,3 +1,5 @@
+https://www.google.com/search?client=firefox-b-d&q=npm+i+-g+issue+behind+proxy+error
+
 https://developpaper.com/solve-the-problem-of-npm-install-proxy-config-is-set-properly-see-npm-help-config-failure/
 
 https://medium.com/@bo.vandersteene/mock-your-ngrx-store-on-the-easy-way-68c66d4bea63
