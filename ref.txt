@@ -1,3 +1,12 @@
+// comopnnet testing
+---
+https://codehandbook.org/how-to-unit-test-angular-component-with-service/
+
+https://testing-angular.com/testing-components-depending-on-services/
+
+https://medium.com/@ranostaj/unit-testing-angular-8-components-with-services-2863ed2b5fed
+---
+
 https://www.google.com/search?client=firefox-b-d&q=npm+i+-g+issue+behind+proxy+error
 
 https://developpaper.com/solve-the-problem-of-npm-install-proxy-config-is-set-properly-see-npm-help-config-failure/
