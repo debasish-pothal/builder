@@ -1,5 +1,7 @@
 // comopnnet testing
 ---
+https://javascript.plainenglish.io/9-html-template-unit-tests-to-write-for-angular-apps-f1970b2cda4e#6360
+
 https://codehandbook.org/how-to-unit-test-angular-component-with-service/
 
 https://testing-angular.com/testing-components-depending-on-services/
